@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: url(../IMG/WP_OSCURO.jpg);
+}
+
+#categorias{
+    display: flex;
+    position: absolute;
+    left: 6%;
+}
+
+.arte img{
+    width: 400px;
+    height: 250px;
+}
+
+.diversion img{
+    width: 400px;
+    height: 250px;
+}
+
+.fotografia img{
+    width: 400px;
+    height: 250px;
+}
